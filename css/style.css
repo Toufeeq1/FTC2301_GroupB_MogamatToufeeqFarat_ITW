@@ -1,0 +1,34 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+#intro{
+    color:#1cc547 ;
+}
+
+.colour-top-and-bottom{
+    background-color:#0097BC ;
+}
+
+#imageofme {
+    width: 200px;
+    height: 200px;
+    
+}
+
+h1,#introstatement,#ContactDetails{
+    color: white;
+}
+
+#head{
+    margin: 0;
+}
+
+
+
+
+
+
+
