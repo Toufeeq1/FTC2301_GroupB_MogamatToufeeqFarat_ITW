@@ -1,22 +1,22 @@
-body{
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     background-color: rgb(196, 238, 255);
 }
 
-#intro{
-    color: #0097BC ;
+#intro {
+    color: #0097BC;
 }
 
-#footer{
+#footer {
     position: sticky;
     bottom: 0px;
 }
- 
 
-.colour-top-and-bottom{
-    background-color:#0097BC ;
+
+.colour-top-and-bottom {
+    background-color: #0097BC;
 }
 
 #imageofme {
@@ -26,15 +26,17 @@ body{
     height: 180px;
     border-radius: 100%;
     border: 3px solid grey;
-    position:absolute;
-    
+    position: absolute;
+
 }
 
-h1,#introstatement,#ContactDetails{
+h1,
+#introstatement,
+#ContactDetails {
     color: white;
 }
 
-#head{
+#head {
     margin: 0;
 }
 
@@ -44,56 +46,40 @@ section {
     border: 0;
 }
 
-#nav-box{
+#nav-box {
     display: flex;
     flex-direction: column;
     top: 20px;
     margin: 40px;
     border: solid black;
     padding: 10px;
-    background-color:rgb(202, 190, 190)
+    background-color: rgb(202, 190, 190)
 }
 
-.aside-container{
+.aside-container {
     display: flex;
     justify-content: space-between;
 }
 
-.article-container{
+.article-container {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
-#skills-container{
+#skills-container {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
 
-form{
+form {
     display: flex;
     flex-direction: column;
     width: 200px;
-    
+
 }
 
-.formlable{
+.formlable {
     margin: 7px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
