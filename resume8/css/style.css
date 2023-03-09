@@ -94,3 +94,25 @@ form {
     background-position: center center;
 
 }
+
+/***************************
+
+mobile
+
+***************************/
+
+@media only screen and (max-width: 600px) {
+    body{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: rgb(196, 238, 255); 
+        font-size: 3vh;  
+    }
+
+    footer{
+        height: 75px;    
+    }
+
+    
+}
